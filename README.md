@@ -24,6 +24,9 @@ This project is a shopping application built using React.js, providing a respons
 - **Responsive Design**: Ensures optimal viewing experience across various devices with Bootstrap and React-Bootstrap.
 - **HTTP Requests**: Performs API calls using Axios to fetch and post data.
 
+##ScreenShots
+https://github.com/Gerpiee/ShopProject/issues/1
+
 ## Getting Started
 
 ### Prerequisites
